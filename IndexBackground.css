@@ -12,6 +12,7 @@ body {
 	background-image:url(backgrounnd_new.jpg);
 	height:100%;
 	max-width:100%;
+	background-size:cover;
 }
 .button-up{
 	height:60%;
